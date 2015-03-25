@@ -15,8 +15,8 @@ installiert werden.
 Dokumentation erzeugen
 ----------------------
 
-HTML-Ausgabe
-~~~~~~~~~~~~
+### HTML-Ausgabe
+
 
 Wenn man sich im Stammverzeichnis des Repositories befinden, kann man (bei installiertem make) mit dem Befehl
 
