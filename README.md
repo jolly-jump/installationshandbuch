@@ -22,7 +22,15 @@ Wenn man sich im Stammverzeichnis des Repositories befinden, kann man (bei insta
 
     make html 
 
-die HTML-Version des Handbuchs im Verzeichnis `build` erzeugen.
+die HTML-Version des Handbuchs im Verzeichnis `build/html` erzeugen.
+
+### PDF-Ausgabe
+
+Wenn auf dem System eine funktionsfähige pdflatex-Installation vorhanden ist, kann man mit dem Befehl
+
+    make latexpdf
+
+eine PDF Version des Handbuchs erzeugen. Diese wird im Verzeichnis `build/latex` erstellt.
 
 
 
