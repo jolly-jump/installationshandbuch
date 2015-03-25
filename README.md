@@ -8,7 +8,7 @@ hier: http://sphinx-doc.org/index.html
 Auf einem debian-basierdenen Linux System kann sphinx einfach 
 durch 
 
-sudo apt-get install python3-sphinx
+    sudo apt-get install python3-sphinx
 
 installiert werden.
 
