@@ -16,6 +16,7 @@ Einführung und Vorbereitung
    preface/index
    preface/features
    preface/changelog
+   preface/hardwarerequirements
 
 Installation
 ------------

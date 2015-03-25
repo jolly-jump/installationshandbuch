@@ -37,8 +37,11 @@ Releaseinformationen zur Version 6.1
 Details findet man in der
 `Veröffentlichungsmitteilung <http://www.linuxmuster.net/wiki/dokumentation:techsheets:release61>`__
 
+Releaseinformationen für frühere Versionen
+------------------------------------------
+
 Releaseinformationen zur Version 6.0
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code:: code
 
@@ -94,7 +97,7 @@ Details findet man `in der
 Veröffentlichungsmitteilung <http://www.linuxmuster.net/wiki/linuxmusternet:blog:articles:20130304_linuxmuster.net_6.0_veroeffentlicht>`__.
 
 Releaseinformationen zur Version 5.1.0
----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  LINBO 2(Einen kurzen Überblick über einige Neuerungen bietet
    `http://lml.support-netz.de/trac/wiki/LINBO-2.0-Neu <http://lml.support-netz.de/trac/wiki/LINBO-2.0-Neu>`__.):
