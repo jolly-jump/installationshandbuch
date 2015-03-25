@@ -17,9 +17,9 @@ Dokumentation erzeugen
 
 Wenn man sich im Stammverzeichnis des Repositories befinden, kann man (bei installiertem make) mit dem Befehl
 
-make html 
+    make html 
 
-die HTML-Version des Handbuchs im Verzeichnis ''build'' erzeugen
+die HTML-Version des Handbuchs im Verzeichnis `build` erzeugen
 
 
 
