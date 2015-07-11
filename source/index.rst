@@ -1,50 +1,36 @@
-.. linuxmuster.net Installationshandbuch documentation master file, created by
-   sphinx-quickstart on Wed Mar 25 10:21:12 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 linuxmuster.net Installationshandbuch
 =================================================================
-
 
 Einführung und Vorbereitung
 ---------------------------
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 1
+    :glob:
 
-   preface/index
-   preface/features
-   preface/changelog
-   preface/hardwarerequirements
+    preface/*
+
 
 Installation
-------------
-   installation/index
+---------------------------
 
-Migration 
----------
-   migration/index
+.. toctree::
+    :maxdepth: 1
+    :glob:
 
-Clientverwaltung mit linbo
---------------------------
-   linbo/index
+    installation/virtual/*
+    installation/appliances/*
 
-Linux als Client
-----------------
-   linuxclient/index
+Migration
+---------------------------
 
-Windows als Client 
-------------------
-   windowsclient/index
+.. toctree::
+    :maxdepth: 1
+    :glob:
 
-Druckerverwaltung
------------------
-   printers/index
+    migration/*
 
-Benutzerverwaltung mit sophomorix
----------------------------------
-   sophomorix/index
+
 
 Index
 ============

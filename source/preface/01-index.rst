@@ -78,7 +78,5 @@ den Seiten der Landesakademie für Fortbildung und Personalentwicklung
 Baden-Württemberg herunterladen. [#f1]_
 
 
-.. rubric:: Fußnoten
-
 .. [#f1] `http://www.lehrerfortbildung-bw.de/netz/muster/linux/ <http://www.lehrerfortbildung-bw.de/netz/muster/linux/>`__ Zum jetzigen Zeitpunkt (Stand: 01.06.2013) gibt es noch keinen Basiskurs für die linuxmuster.net 6.0. Aber der Basiskurs zur paedML 5.x Linux gilt nahezu wortwörtlich auch für die aktuelle linuxmuster.net Version, da diese eine direkte, offene Weiterentwicklung der früheren paedML 5.x  ist.
 

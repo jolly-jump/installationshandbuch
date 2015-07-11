@@ -1,4 +1,3 @@
-
 Hardwareanforderungen
 =====================
 
@@ -31,5 +30,4 @@ Auf dem Server werden je nach Szenario 2-3 virtuelle Maschinen installiert:
 - linuxmuster.net Server
 - linuxmuster.net Firewall (IPFire)
 - Wenn ein WLan eingesetzt werden soll eventuell ein HotSpot-Server (Chillispot)
-
 

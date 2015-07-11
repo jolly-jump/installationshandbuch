@@ -64,7 +64,8 @@ Fertig vorbereitet und installierbar sind folgende optionale Merkmale:
    Verwaltung von Windows-Clients
 
 Optionale durch die Community bereitgestellte Erweiterungen
-------------------------------------------------------------
+-----------------------------------------------------------
+
 Von der Community getragene Addons erweitern die Lösung um folgende
 Merkmale:
 
